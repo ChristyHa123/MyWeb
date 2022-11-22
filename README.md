@@ -1,3 +1,3 @@
 UXUIDesign
-Design: Christy Ha (Hà Ngọc Hiếu)
+<b>Design: Christy Ha (Hà Ngọc Hiếu)<b><br>
 Website:
